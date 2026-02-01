@@ -156,4 +156,4 @@ poetry.toml
 !.env.example
 
 __pycache__/
-*.pyc
+*.pyc.replit
