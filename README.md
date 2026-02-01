@@ -16,6 +16,7 @@ git clone <https://github.com/Suba79/django-orm-watching-storage-part-2>
 ```
 
 ## Установка зависимостей
+
 ```bash 
 pip install -r requirements.txt
 ```
@@ -29,6 +30,7 @@ DEBUG=True
 ```
 
 ## Запуск сервера
+
 ```bash
 python manage.py runserver 0.0.0.0:8080
 ```
@@ -126,6 +128,7 @@ python manage.py help
 ```
 
 ## Пример вывода:
+
 ```text 
 Type 'manage.py help <subcommand>' for help on a specific subcommand.
 
@@ -195,6 +198,7 @@ Available subcommands:
 * HTML/CSS (шаблоны Django)
 
 ## Структура проекта
+
 ```text 
 django-orm-watching-storage-part-2-master/
 ├── datacenter/              # Основное приложение
